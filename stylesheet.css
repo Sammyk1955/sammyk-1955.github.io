@@ -7,12 +7,11 @@ font-family:Verdana,georgia,selif;
 font-size:14px;
 }
 
-#header
+.header
 {
 background-color:#5c755e;
 text-align:center;
-margin-left:auto;
-margin-right:auto;
+margin:10px;
 height: 90px;
 border-radius:;5px
 }
@@ -20,11 +19,9 @@ border-radius:;5px
 #navbar
  {
 background-color:#5c755e;
-margin:10px;
 height: 35px;
 border-radius:;5px
-margin-left:auto;
-margin-right:auto;
+margin:10px;
 text-align:center;
 }
 
@@ -47,7 +44,7 @@ img {
 
 
 display:block;
-border:solid;
+
 padding:10px;
 max-width:100px;
 max-height:100%;
